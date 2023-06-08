@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LeaderboardScreen
+comment1.params=
+comment1.target=LeaderboardScreen()
+comment2.params=
+comment2.target=void\ displayLeaderboard()
+comment3.params=
+comment3.target=void\ readIn()
+comment4.params=p
+comment4.target=void\ add(Person)
+comment5.params=
+comment5.target=void\ print()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

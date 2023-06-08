@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=image\ link
+comment1.target=Button(mayflower.MayflowerImage,\ mayflower.World)
+comment2.params=image\ link\ value
+comment2.target=Button(mayflower.MayflowerImage,\ mayflower.World,\ java.lang.String)
+comment3.params=image\ value\ currentScreen
+comment3.target=Button(mayflower.MayflowerImage,\ java.lang.String,\ java.lang.String)
+comment4.params=image\ value
+comment4.target=Button(mayflower.MayflowerImage,\ java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getValue()
+comment6.params=
+comment6.target=void\ disable()
+comment7.params=
+comment7.target=void\ act()
+comment8.params=
+comment8.target=void\ evaluateValueAndCurrentScreen()
+comment9.params=
+comment9.target=void\ evaluateValue()
+numComments=10

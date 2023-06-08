@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TopicScreen
+comment1.params=
+comment1.target=TopicScreen()
+comment2.params=playscreen
+comment2.target=void\ setPlayScreen(PlayScreen)
+comment3.params=
+comment3.target=PlayScreen\ getPlayScreen()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
